@@ -396,6 +396,31 @@ input:focus {
   #minimize:hover {background: #333333;}
   #minimize:hover > div {background: #e3e3e3;}
 
+.aboutLink {
+  float: right;
+  padding: 10px;
+  color: gray;
+}
+
+.homeLink{
+  float: left;
+  padding: 10px;
+  color: gray;
+}
+
+.profilePic{
+  float: right;
+  width: 40%;
+}
+
+#aboutMe {
+  padding: 100px;
+}
+
+#aboutText p {
+ 
+}
+
 /*767*/
 @media screen and (min-width: 700px) {
   #minimize {display: none;}
