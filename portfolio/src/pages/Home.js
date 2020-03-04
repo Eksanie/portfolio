@@ -25,7 +25,7 @@ function Home() {
                     <ul>
                         <li>
                             <a href="">
-                                <img src="" alt="" />
+                            <img className="Dance" src="../images/Dance.JPG" alt="Dance" />
                             </a>
                         </li>
                         <li>
